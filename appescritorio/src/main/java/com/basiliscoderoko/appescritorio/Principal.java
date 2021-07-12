@@ -116,7 +116,6 @@ public class Principal extends javax.swing.JFrame {
             this.desktopPane.add(this.ventas);
         }
         ventas.setVisible(true);
-        
     }//GEN-LAST:event_VentasMenuItemActionPerformed
 
     private void ComprasMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ComprasMenuItemActionPerformed
@@ -126,8 +125,6 @@ public class Principal extends javax.swing.JFrame {
             this.desktopPane.add(this.compras);
         }
         compras.setVisible(true);
-        
-
     }//GEN-LAST:event_ComprasMenuItemActionPerformed
 
     private void ListadosMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ListadosMenuItemActionPerformed
